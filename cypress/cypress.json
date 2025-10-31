@@ -1,5 +1,4 @@
 {
-  "fixturesFolder": false,
-  "pluginsFile": false,
-  "supportFile": false
+  "baseUrl": "http://localhost:5100",
+  "video": true
 }
